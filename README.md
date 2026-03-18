@@ -17,6 +17,10 @@ A cross-platform mobile and web app built with **React Native + Expo** that calc
 
 ---
 
+https://github.com/user-attachments/assets/27d7b478-0639-43e3-8c66-4193945ed023
+
+
+
 ## Tech Stack
 
 | Layer | Technology |
