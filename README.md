@@ -16,8 +16,11 @@ A cross-platform mobile and web app built with **React Native + Expo** that calc
 - Runs on **Android**, **iOS**, and **Web**
 
 ---
+## Demo runthrough
 
-https://github.com/user-attachments/assets/27d7b478-0639-43e3-8c66-4193945ed023
+https://github.com/user-attachments/assets/d4874944-fb0d-449b-882a-319d815af75b
+
+
 
 
 
